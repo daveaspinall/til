@@ -17,4 +17,4 @@ _Early days at the moment…_
 
 ### SVG
 
-- [Remove SVG width/height attributes using SVGO](svg/svgo-remove-svg-dimensions.md)
+- [Remove SVG width/height using SVGO](svg/svgo-remove-svg-dimensions.md)

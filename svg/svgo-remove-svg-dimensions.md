@@ -1,4 +1,4 @@
-# Remove SVG width/height attributes using SVGO
+# Remove SVG width/height using SVGO
 
 Using the `removeDimensions` plugin that ships with SVGO, you can remove the
 width/height attributes on an SVG in the presence of `"viewBox"`.
