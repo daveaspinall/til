@@ -11,8 +11,10 @@ _Early days at the moment…_
 
 ### Categories
 
-* [svg](#svg)
+* [SVG](#svg)
 
-### svg
+---
+
+### SVG
 
 - [Remove SVG width/height attributes using SVGO](svg/svgo-remove-svg-dimensions.md)
