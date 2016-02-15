@@ -8,7 +8,7 @@ match the scale of the image dimensions.
 HTML:
 
     <div class="svg__container">
-        <svg class="svg" viewBox="0 0 60 55" >
+        <svg class="svg" viewBox="0 0 60 55">
             <!-- SVG content -->
         </svg>
     </div>
@@ -20,7 +20,7 @@ CSS:
         width: 100%;
         height: 0;
 
-        /* 100% width, mutiplied by the SVG height/width */
+        /* 100% width, multiplied by the SVG height/width */
         padding-bottom: calc(100% * 55/60);
     }
 
@@ -32,7 +32,7 @@ CSS:
         height: 100%;
     }
 
-If the `svg__container` also has a percentage width, use the in the padding-bottom
+If the `svg__container` also has a percentage width, use that in the padding-bottom
 calculation:
 
     .svg__container {
