@@ -17,4 +17,5 @@ _Early days at the moment…_
 
 ### SVG
 
+- [Consistent SVG scaling](svg/consistent-svg-scaling.md)
 - [Remove SVG width/height using SVGO](svg/svgo-remove-svg-dimensions.md)
