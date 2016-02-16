@@ -1,8 +1,8 @@
 # Redirect wp-uploads to development/production server
 
 If you're working on a WordPress project locally and don't want to keep syncing
-the `wp-uploads` folder with the staging/live version, simply add this to the
-default WordPress `.htaccess`:
+the `wp-uploads` folder with the development/production server, simply add this
+to the default WordPress `.htaccess`:
 
     <IfModule mod_rewrite.c>
     RewriteEngine On
@@ -17,3 +17,5 @@ default WordPress `.htaccess`:
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule . /index.php [L]
     </IfModule>
+
+Your local site will now use the images on the development/production server!
