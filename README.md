@@ -23,4 +23,4 @@ _Early days at the moment…_
 
 ### WordPress
 
-- [Redirect wp-uploads to development/production server](wordpress/redirect-wp-uploads-to-staging.md)
+- [Redirect wp-uploads directory](wordpress/redirect-wp-uploads-directory.md)
