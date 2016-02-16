@@ -12,6 +12,7 @@ _Early days at the moment…_
 ### Categories
 
 * [SVG](#svg)
+* [WordPress](#wordpress)
 
 ---
 
@@ -19,3 +20,7 @@ _Early days at the moment…_
 
 - [Consistent SVG scaling](svg/consistent-svg-scaling.md)
 - [Remove SVG width/height using SVGO](svg/svgo-remove-svg-dimensions.md)
+
+### WordPress
+
+- [Redirect wp-uploads to development/production server](wordpress/redirect-wp-uploads-to-staging.md.md)
